@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>676320152019-0163ptuoqbdalai98sia9of3nkdncq3i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.676320152019-0163ptuoqbdalai98sia9of3nkdncq3i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBGdelffxywGMSiOhg_6CrqdNXL8WCUyVU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>676320152019</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>JobSearch.JobSearch</string>
+	<key>PROJECT_ID</key>
+	<string>jobsearch-ios</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jobsearch-ios.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:676320152019:ios:f2e844aad873bc1f148726</string>
+</dict>
+</plist>
